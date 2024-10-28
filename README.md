@@ -3,10 +3,10 @@
 ### Sou a ***Celly***, tudo bem com vocês?
 
 🔊Falando um pouco sobre mim:
-- ✅ Atuei por mais de 15 anos no mercado na Área Administrativa;
+- ✅ Administradora e tech em formação;
 - 🔰 Minha última experiência de trabalho foi no Exército Brasileiro, instituição ao qual me dediquei por 8 anos;
-- 👩‍💻 Atualmente estou estudando incessantemente para adquirir **conhecimento** na Área de **Tecnologia** participando de congressos, palestras, cursos, fazendo pesquisas... E também,
-- ➡️ Em busca de uma oportunidade de trabalho.   
+- 👩‍💻 Atualmente estudando incessantemente para adquirir **conhecimento** na Área de **Tecnologia** participando de congressos, palestras, cursos, bootcamps, fazendo pesquisas, cursando ADS... E também,
+- ➡️ Em busca de uma oportunidade de trabalho na área de tecnologia.   
 
 <!---
 CellyLima/CellyLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
