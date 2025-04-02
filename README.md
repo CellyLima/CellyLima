@@ -2,7 +2,7 @@
 
 ## Sou a ***Celly***, tudo bem com vocês?
 
-## 🔊 Um pouco sobre mim:
+# 🔊 Um pouco sobre mim:
 - 🎓 Formação: Administradora e atualmente cursando Análise e Desenvolvimento de Sistemas;
 - 🖥️ Especialização: Atualmente aprofundando meus conhecimentos em Back-End/Java pela Oracle One - Latam Pass Alura;
 - 🔰 Experiência: 8 anos no Exército Brasileiro, onde desenvolvi disciplina, resiliência e habilidades de liderança, assim como:
