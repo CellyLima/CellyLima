@@ -1,6 +1,6 @@
 👋 Olá Mundo!🌎
 
-### Sou a ***Celly***, tudo bem com vocês?
+## Sou a ***Celly***, tudo bem com vocês?
 
 ## 🔊 Um pouco sobre mim:
 - 🎓 Formação: Administradora e atualmente cursando Análise e Desenvolvimento de Sistemas;
