@@ -13,7 +13,8 @@
 - 🚀 Participo ativamente de congressos, palestras, cursos, bootcamps e pesquisas para expandir meus conhecimentos na área de tecnologia;
 - 👩🏻‍💻 Objetivo: Em transição para a área de tecnologia e em busca de uma oportunidade para aplicar e expandir minhas habilidades.
 
-- Vamos nos conectar? 🚀
+
+- ***Vamos nos conectar***? 🚀
 
 <!---
 CellyLima/CellyLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
